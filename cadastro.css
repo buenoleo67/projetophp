@@ -1,0 +1,19 @@
+div{
+    color: gold;
+}
+input{
+    margin-left: 0.3cm;
+}
+input#tel{
+    margin-left: 0.9cm;
+}
+select{
+    margin-left: 1.6cm;
+}
+textarea{
+    margin: center;
+}
+input#cadastrar{
+    margin-left :3cm;
+}
+ 
