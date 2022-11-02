@@ -1,0 +1,19 @@
+div#card{
+    background: url("image.jgp") center;
+    color: peachpuff;
+    border-radius: 8px;
+    padding: 0px 18px;
+    width: 244px;
+    transition: 0.5s ease;
+    overflow: hidden;
+    transform: translate(0);     
+}
+ 
+h1{
+    color: peachpuff;
+
+}
+h3{
+    color: peachpuff;
+
+}
