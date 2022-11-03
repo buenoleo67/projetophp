@@ -18,8 +18,6 @@
     Ainda não tem cadastro? <a href="cadastro.php">Acesse Aqui</a> <br>
    Deseja retornar a tela incial?<a href="index.php"> Home</a><br>
    </div>
-   
-   
    <img src="logo2.jpg" alt="logomarca">
 
 </body>
