@@ -1,6 +1,7 @@
 div{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: blanchedalmond;
 }
 img{
-    height: 9cm;
+    height: 5cm;
 }
